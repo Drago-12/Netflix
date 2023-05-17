@@ -1,0 +1,323 @@
+@media screen and (max-width: 1064px) {
+    .nav-last-hadding {
+        font-size: 52px;
+    }
+}
+
+
+@media screen and (max-width:900px) {
+    .nav-last-container {
+        width: 66%;
+    }
+
+    .nav-last-hadding {
+        font-size: 50px;
+    }
+
+    .nav-last-para {
+        font-size: 22px;
+    }
+
+    .sec-first {
+        height: auto;
+    }
+
+    .sec-first-container {
+        flex-direction: column;
+        padding: 70px 40px;
+    }
+
+    .sec-fist-hadding {
+
+        font-size: 44px;
+        text-align: center;
+    }
+
+    .sec-fist-para {
+        font-size: 21 px;
+        padding-top: 12px;
+        text-align: center;
+    }
+
+    .sec-first-imgtag {
+        width: 100%;
+
+    }
+
+    .sec-secound-container {
+        flex-direction: column-reverse;
+        width: 87%;
+        padding: 60px 0 90px 0;
+    }
+
+    .sec-secound-hadding {
+        width: auto;
+        font-size: 39px;
+        text-align: center;
+
+    }
+
+    .sec-secound-para {
+        font-size: 20px;
+        width: auto;
+        margin: 10px 0 0 0;
+        text-align: center;
+    }
+
+    .sec-secound-imgtag {
+        width: 91%;
+        margin: auto;
+        display: block;
+    }
+
+    .email {
+        display: block;
+    }
+
+    .Email-input {
+        width: 91%;
+        display: block;
+        margin: auto
+    }
+
+    .nav-last-btn {
+        margin: auto;
+        display: block;
+        margin-top: 20px;
+        width: 160px;
+    }
+
+    .third-video-secound {
+        width: 61%;
+        padding-right: 0px;
+        position: absolute;
+        left: 19%;
+        top: 16%;
+    }
+
+    .nav-last-btn {
+        margin: auto;
+        display: block;
+        margin-top: 17px;
+    }
+
+   
+    .footer-top-container {
+        width: 100vw;
+    }
+
+    .list-one li {
+        font-size: 15px;
+    }
+
+    .footer p {
+        font-size: 17px;
+    }
+}
+
+
+@media screen and (max-width:800px) {
+
+    .question h1 {
+        font-size: 35px;
+    }
+
+    .third-video-secound {
+        top: 18%;
+    }
+
+}
+
+@media screen and (max-width:700px) {
+    .nav-last-hadding {
+        font-size: 45px;
+    }
+
+    .nav-last-container {
+        margin-top: 50px;
+    }
+
+    .nav-last-para {
+        font-size: 20px;
+    }
+
+
+    .question h1 {
+        font-size: 29px;
+    }
+
+    .sec-secound-imgtag-resp {
+
+        width: 80%;
+        margin: auto;
+        margin-top: auto;
+        display: block;
+        margin-top: 31px;
+
+    }
+
+
+}
+
+@media screen and (max-width: 640px) {
+
+    .sec-first-container {
+        width: 100%;
+    }
+}
+
+
+
+@media screen and (max-width: 600px) {
+    .sec-secound-hadding {
+        font-size: 29px;
+    }
+
+    .sec-fist-hadding {
+        font-size: 35px;
+    }
+
+    .sec-fist-para {
+        font-size: 18px;
+    }
+
+    .sec-secound-para {
+        font-size: 17px;
+    }
+
+    .nav-last-hadding {
+        font-size: 35px;
+    }
+
+    .nav-last-para {
+        font-size: 16px;
+    }
+
+    .question h1 {
+        font-size: 22px;
+    }
+}
+
+@media screen and (max-width: 568px) {
+    .secound-conainer {
+        justify-content: start;
+    }
+}
+
+@media screen and (max-width: 542px) {
+    .secound-conainer {
+        justify-content: start;
+    }
+
+    .list-secound {
+        margin-left: 25px;
+        /* font-weight: 600; */
+    }
+
+    .footer-main-conatiner {
+        margin-left: 20px;
+    }
+
+    .media-center {
+        align-self: baseline;
+    }
+
+    .list-one li {
+        font-size: 12px;
+    }
+}
+
+@media screen and (max-width: 500px) {
+    .sub-question {
+        width: 95vw;
+    }
+
+    .last-email {
+        width: 90%;
+    }
+
+    .nav-last-container {
+        width: 90%;
+    }
+
+
+}
+
+@media screen and (max-width: 470px) {
+
+
+    .sec-first-container {
+        width: 100%;
+    }
+}
+
+@media screen and (max-width: 430px) {
+
+
+
+    .sec-first-container {
+        width: 100%;
+    }
+
+    .third-video-secound {
+        top: 22%;
+    }
+}
+
+@media screen and (max-width: 400px) {
+
+
+    .sec-first-container {
+        width: 100%;
+    }
+
+    .nav-last-hadding {
+        font-size: 30px;
+    }
+
+}
+
+@media screen and (max-width:395px) {}
+
+@media screen and (max-width: 380px) {
+    .sec-fist-hadding {
+        font-size: 30px;
+    }
+}
+
+@media screen and (max-width: 360px) {
+
+
+
+    .sec-first-container {
+        width: 102%;
+    }
+}
+
+@media screen and (max-width: 340px) {
+
+
+
+    .sec-first-container {
+        width: 100%;
+    }
+
+    .list-secound {
+        margin: 0;
+    }
+}
+
+@media screen and (max-width: 330px) {
+    .third-video-secound {
+        top: 25%;
+    }
+}
+
+
+@media screen and (max-width: 300px) {
+
+
+    .sec-first-container {
+        width: 100%;
+    }
+}
